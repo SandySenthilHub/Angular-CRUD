@@ -1,0 +1,117 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "name": "Sandhya S",
+      "address": "Vadavalli",
+      "city": "Coimbatore",
+      "pc": 641041,
+      "country": "India",
+      "id": 1
+    },
+    {
+      "name": "Vinayak Sivan",
+      "address": "Kodambakkam",
+      "city": "Chennai",
+      "pc": 600005,
+      "country": "India",
+      "id": 2
+    },
+    {
+      "name": "Krish Venkat",
+      "address": "Royapettah",
+      "city": "Chennai",
+      "pc": 600014,
+      "country": "India",
+      "id": 3
+    },
+    {
+      "name": "Lakshu Murugan",
+      "address": "Vidhana Soudha Layout",
+      "city": "Bangalore",
+      "pc": 560001,
+      "country": "India",
+      "id": 4
+    },
+    {
+      "name": "John Matheue",
+      "address": "Bennerughatta",
+      "city": "Bangalore",
+      "pc": 560089,
+      "country": "India",
+      "id": 5
+    },
+    {
+      "name": "Muhamad Azar",
+      "address": "Koramangala",
+      "city": "Bangalore",
+      "pc": 560034,
+      "country": "India",
+      "id": 6
+    },
+    {
+      "name": "Sara Senthil",
+      "address": "Anandnagar ",
+      "city": "Hydrabad",
+      "pc": 500004,
+      "country": "India",
+      "id": 7
+    },
+    {
+      "name": "Olive Yew",
+      "address": "Redbud Drive",
+      "city": "West Nyack",
+      "pc": 109946,
+      "country": "United States",
+      "id": 8
+    },
+    {
+      "name": "Ray SIn",
+      "address": "Virginia Street",
+      "city": "Ele Grove Village",
+      "pc": 600007,
+      "country": "United States",
+      "id": 10
+    },
+    {
+      "name": "Barry kade",
+      "address": "Albert Road",
+      "city": "Litttle Ballinluig",
+      "pc": 600234,
+      "country": "United Kingdom",
+      "id": 11
+    },
+    {
+      "name": "Gowtham ",
+      "address": "Vellacherry",
+      "city": "Chennai",
+      "pc": 670031,
+      "country": "India",
+      "id": 13
+    },
+    {
+      "name": "Senthil kumar",
+      "address": "Nehru Nagar",
+      "city": "Coimbatore",
+      "pc": 641043,
+      "country": "India",
+      "id": 14
+    }
+  ]
+}
